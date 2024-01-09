@@ -24,9 +24,3 @@ Welcome to the EPSON-TM-T20X-Console-Print-Status repository! This lightweight c
 ```bash
 $ dotnet EPSON-TM-T20X-Console-Print-Status.dll
 ```
-
-## Contributing
-
-Contributions to enhance the functionality or support additional features are welcome. Please refer to the [contribution guidelines](CONTRIBUTING.md) for more details.
-
-Elevate your EPSON TM-T20X printing experience with real-time status updates using the EPSON-TM-T20X-Console-Print-Status repository. Monitor, troubleshoot, and optimize your printing processes with ease!
